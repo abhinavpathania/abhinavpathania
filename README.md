@@ -1,5 +1,5 @@
 # ![MuaKissGIF](https://github.com/user-attachments/assets/9c82fe95-a0e3-49fb-af77-d61624b47633)
-# About Me:
+# 😁 About Me:
 I am a third-year BTech student in Computer Science at Jaypee University of information and technology waknaghat, with a strong passion for machine learning and data analysis. I have hands-on experience developing machine learning models, including a disease prediction system and an automatic image recommendation system for news articles. Outside of academics, I enjoy playing basketball and going to the gym, which help me develop teamwork, discipline, and a balanced lifestyle.
 
 
